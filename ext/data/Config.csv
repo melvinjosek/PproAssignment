@@ -1,0 +1,2 @@
+Config.url;https://automation-test-api.netlify.app/.netlify/functions/payment
+Config.apiKey;secureKey
